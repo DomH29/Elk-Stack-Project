@@ -1,4 +1,4 @@
-# my-playbook.yml
+# install-elk.yml
 ---
 - name: Configure Elk VM with Docker
   hosts: ELK-VM
